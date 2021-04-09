@@ -1,0 +1,8 @@
+first = "Ankush"
+second = "Dogra"
+print(first,second)
+
+
+a= 10
+b = 10
+print (a + b)
